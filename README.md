@@ -1,1 +1,1 @@
-# landing-pahe
+# landing-page
